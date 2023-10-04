@@ -1,12 +1,3 @@
 <resources>
-    <string name="app_name">Food Saver</string>
-    <string name="login">Login</string>
-    <string name="or">Or</string>
-    <string name="food">FOOD</string>
-    <string name="username">Username</string>
-    <string name="s_a_v_e_r">s a v e r.</string>
-    <string name="sign_up">Sign Up</string>
-    <string name="password">Password</string>
-    <string name="login1">Login</string>
-    <string name="saver">saver.</string>
+    <string name="app_name">CoursePaper Connect</string>
 </resources>

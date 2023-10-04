@@ -1,4 +1,4 @@
-package com.example.foodsaver
+package com.example.coursepaperconnect
 
 import org.junit.Test
 

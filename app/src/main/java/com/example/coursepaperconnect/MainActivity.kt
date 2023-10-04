@@ -1,4 +1,4 @@
-package com.example.foodsaver
+package com.example.coursepaperconnect
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
